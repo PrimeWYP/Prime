@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prime
-- 👀 I’m interested in creating mobile development  
+- 👀 I’m interested in creating mobile app
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mobile development
 - 📫 How to reach me ...
 
 <!---
